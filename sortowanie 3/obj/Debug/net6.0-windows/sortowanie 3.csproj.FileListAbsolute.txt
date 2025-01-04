@@ -1,0 +1,34 @@
+C:\Users\local\Desktop\175495\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.exe
+C:\Users\local\Desktop\175495\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.deps.json
+C:\Users\local\Desktop\175495\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.runtimeconfig.json
+C:\Users\local\Desktop\175495\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.dll
+C:\Users\local\Desktop\175495\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.pdb
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.csproj.AssemblyReference.cache
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie_3.Form1.resources
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.csproj.GenerateResource.cache
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.AssemblyInfoInputs.cache
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.AssemblyInfo.cs
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.dll
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\refint\sortowanie 3.dll
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.pdb
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.genruntimeconfig.cache
+C:\Users\local\Desktop\175495\sortowanie 3\obj\Debug\net6.0-windows\ref\sortowanie 3.dll
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.exe
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.deps.json
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.runtimeconfig.json
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.dll
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\bin\Debug\net6.0-windows\sortowanie 3.pdb
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie_3.Form1.resources
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.csproj.GenerateResource.cache
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.AssemblyInfoInputs.cache
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.AssemblyInfo.cs
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.csproj.CoreCompileInputs.cache
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.sourcelink.json
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.dll
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\refint\sortowanie 3.dll
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.pdb
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\sortowanie 3.genruntimeconfig.cache
+C:\Users\ksend\Source\Repos\kondziorek88\randomcrap\sortowanie 3\obj\Debug\net6.0-windows\ref\sortowanie 3.dll
