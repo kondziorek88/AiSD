@@ -1,0 +1,16 @@
+C:\Users\ksend\source\repos\drzewa\bin\Debug\net8.0-windows\drzewa.exe
+C:\Users\ksend\source\repos\drzewa\bin\Debug\net8.0-windows\drzewa.deps.json
+C:\Users\ksend\source\repos\drzewa\bin\Debug\net8.0-windows\drzewa.runtimeconfig.json
+C:\Users\ksend\source\repos\drzewa\bin\Debug\net8.0-windows\drzewa.dll
+C:\Users\ksend\source\repos\drzewa\bin\Debug\net8.0-windows\drzewa.pdb
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.Form1.resources
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.csproj.GenerateResource.cache
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.AssemblyInfoInputs.cache
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.AssemblyInfo.cs
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.csproj.CoreCompileInputs.cache
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.dll
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\refint\drzewa.dll
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.pdb
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\drzewa.genruntimeconfig.cache
+C:\Users\ksend\source\repos\drzewa\obj\Debug\net8.0-windows\ref\drzewa.dll
